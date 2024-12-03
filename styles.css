@@ -1,0 +1,14 @@
+.box1{
+    width: 300px;
+    margin-top: 30px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+.box2{
+    width: 300px;
+    margin-bottom: 30px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
